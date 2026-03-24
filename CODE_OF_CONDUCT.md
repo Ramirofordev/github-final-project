@@ -112,6 +112,28 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
 
+## Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior.
+
+## Scope
+
+This Code of Conduct applies within all community spaces and also applies when an individual is representing the community in public spaces.
+
+## Enforcement Guidelines
+
+### 1. Correction
+Community Impact: Use of inappropriate language.
+
+### 2. Warning
+Community Impact: A violation through a single incident.
+
+### 3. Temporary Ban
+Community Impact: Serious violation of standards.
+
+### 4. Permanent Ban
+Community Impact: Repeated violations.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
